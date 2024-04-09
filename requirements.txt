@@ -1,0 +1,17 @@
+beautifulsoup4
+jsonlines
+numpy
+openai==0.27.2
+PyMuPDF
+python_docx
+requests
+tqdm
+validators
+tiktoken
+
+haystack
+farm-haystack
+rocketqa
+torch
+paddlepaddle==2.2.2
+protobuf==3.20.3
